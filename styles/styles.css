@@ -1,0 +1,39 @@
+section.header {
+    text-align: right;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color: #7d97ad;
+}
+
+
+.header--font {
+        font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 100;
+        margin: 0;
+}
+
+.h1--size {
+    font-size: 50px;
+}
+.h3--size {
+    font-size: 25px;
+    color: dimgray;
+}
+.slogan {
+    font-size: 15px;
+    color: #02b3e4;
+    margin-bottom: 5px;
+}
+
+.image {
+    float: left;
+    position: relative;
+    width: 15%;
+}
+
+.image img {
+    width: 100%;
+}
+
